@@ -48,18 +48,4 @@ class ArticleController(private val articleRepository: ArticleRepository) {
 
 
 
-
-    if (Serial.available()) {
-        char incomingData = Serial.read();
-        if (incomingData == '0' ) {
-            angle = 360;
-        } else {
-            angle = '1';
-        }
-        myservo.write(angle);
-    }
-
-
-
-
 }
