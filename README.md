@@ -1,4 +1,4 @@
-# Mini-blog-application-kotlin-springboot............m..
+# Mini-blog-application-kotlin-springboot............m.
 This involves building Restful APIs for a mini blog application with Kotlin and spring boot.
 The blog contains a list of Articles. It entails writing APIs for creating, retrieving, updating and deleting an Article.
 An Article has an id, a title and some content.
