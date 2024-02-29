@@ -4,6 +4,6 @@ The blog contains a list of Articles. It entails writing APIs for creating, retr
 An Article has an id, a title and some content.
 MySQL database is used as its data source and JPA & Hibernate is used to access data from the database
 
-.........................,...................................
+.........................,..................................
 
 
