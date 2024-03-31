@@ -1,1 +1,1 @@
-Readme section for blog project .
+Readme section for blog project 
