@@ -1,1 +1,1 @@
-Readme section for blog projec.
+Readme section for blog projec
