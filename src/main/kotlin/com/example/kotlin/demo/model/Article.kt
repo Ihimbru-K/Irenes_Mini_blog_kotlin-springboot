@@ -9,7 +9,7 @@ import jakarta.validation.constraints.NotBlank
 
 @Entity
 data class Article (
-
+//Attributes of article entity 
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
     val id : Long = 0,
 
